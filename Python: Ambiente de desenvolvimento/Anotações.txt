@@ -1,0 +1,5 @@
+1) Instalar o python (Como utilizo Ubuntu fiz o passo 2)
+2) Verificar versão do Python
+- "python3 --version" ou "python -V"
+3) Instalar IDE (Já fazia uso do VSCode)
+4) Instalar extensões
